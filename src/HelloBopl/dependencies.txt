@@ -1,0 +1,2 @@
+-- List of DLLs from BoplBattle_Data/Managed to reference if you build on Windows/IDEs
+Assembly-CSharp.dll

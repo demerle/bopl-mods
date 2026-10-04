@@ -1,0 +1,9 @@
+{
+    "name": "HelloBopl",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/deeroot/bopl_mods",
+    "description": "Hello World test mod for Bopl Battle. Logs a message when abilities spawn.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ]
+}

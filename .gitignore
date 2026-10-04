@@ -1,0 +1,10 @@
+rounds_archive/
+bin/
+obj/
+decompiled/
+.vs/
+.idea/
+*.user
+TestProfile/
+Bopl/
+*.zip

@@ -1,0 +1,17 @@
+{
+    "name": "BoplWithFriends",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/deeroot/bopl_mods",
+    "description": "Uncaps Bopl Battle's 4-player multiplayer limit — play online with up to 16 friends. Everyone needs the mod.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2305"
+    ],
+    "extraData": {
+        "discord": false,
+        "tags": [
+            "Utility",
+            "Clientside",
+            "Serverside"
+        ]
+    }
+}
